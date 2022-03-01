@@ -1,0 +1,24 @@
+body {
+    background-image: url(imagens/wallpaper003.jpg);
+}
+
+div.quadrado {
+    display: inline-block;
+    border: 1.5px solid black ;
+    border-radius: 15px;
+    background-color: rgb(207, 122, 72);
+    width: 267px;
+    height: 305px;
+}
+
+div#q1 {
+    background-color: rgb(111, 231, 30);
+}
+
+div#q2 {
+    background-image: linear-gradient(to bottom, yellow, orange);
+}
+
+div#q3 {
+    background-image:url(imagens/pattern003.png);
+}
